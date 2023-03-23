@@ -6,6 +6,13 @@ Meu nome é Bruna Bochnia sou do Brasil e trabalho com Desenvolvimento Front-end
 
 # O que eu faço
 
+# Conhecimentos
+
+# Cursos Completos
+
+# Eventos como Participante
+  * Dev Paraná 
+
 
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/)](https://youtube.com/c/)
