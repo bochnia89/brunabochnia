@@ -4,14 +4,31 @@ My name is Bruna Bochnia, I'm from Brazil and I've been working with Front-end D
 
 Meu nome é Bruna Bochnia sou do Brasil e trabalho com Desenvolvimento Front-end desde 2009. 
 
-# O que eu faço
+## O que eu faço
 
-# Conhecimentos
+## Conhecimentos
+### Sistemas Operacionais
+* Mac
+* Windows
 
-# Cursos Completos
+### Front-end
+* HTML.
+* CSS (Design Responsivo).
+  * Arquitetura BEM
 
-# Eventos como Participante
+### UI Kits
+* Material Kit.
+* Materialize.
+* Bootstrap.
+
+## Cursos Completos
+
+## Eventos como Participante
   * Dev Paraná 
+
+```sh
+yarn add @mui/material @emotion/react @emotion/styled
+```
 
 
 
