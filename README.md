@@ -1,5 +1,12 @@
 # Olá, seja bem-vindo!
 
+My name is Bruna Bochnia, I'm from Brazil and I've been working with Front-end Development since 2009
+
+Meu nome é Bruna Bochnia sou do Brasil e trabalho com Desenvolvimento Front-end desde 2009. 
+
+# O que eu faço
+
+
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/)](https://youtube.com/c/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
