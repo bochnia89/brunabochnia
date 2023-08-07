@@ -22,9 +22,14 @@ Meu nome é Bruna Bochnia sou do Brasil e trabalho com Desenvolvimento Front-end
 * Bootstrap.
 
 ## Cursos Completos
+ * Curso: Dicas Visual Studio Code [https://www.maismulheres.tech/certificates/cg3f1pdpcx]
 
 ## Eventos como Participante
-  * Dev Paraná 
+  * (2023) Dev40+ (https://www.devs40mais.com.br)
+  * (2023) Locaweb Digital Conference (https://locawebdigitalconference.com.br/)
+  * (2023) FrontIn Sampa (https://frontinsampa.com.br/)
+  * (2023) Dev Paraná (https://www.devparana.org/)
+  
 
 ```sh
 <mark>Teste </mark>
